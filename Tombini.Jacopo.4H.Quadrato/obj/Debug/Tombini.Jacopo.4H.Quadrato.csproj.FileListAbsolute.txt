@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\bin\Debug\Tombini.Jacopo.4H.Quadrato.exe.config
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\bin\Debug\Tombini.Jacopo.4H.Quadrato.exe
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\bin\Debug\Tombini.Jacopo.4H.Quadrato.pdb
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\obj\Debug\Tombini.Jacopo.4H.Quadrato.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\obj\Debug\Tombini.Jacopo.4H.Quadrato.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\obj\Debug\Tombini.Jacopo.4H.Quadrato.exe
+C:\Users\User\Desktop\Tombini.Jacopo.4H.Quadrato\Tombini.Jacopo.4H.Quadrato\obj\Debug\Tombini.Jacopo.4H.Quadrato.pdb

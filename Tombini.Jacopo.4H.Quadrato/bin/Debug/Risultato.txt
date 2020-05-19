@@ -1,0 +1,5 @@
+3
+Quadrato perfetto
+4;3;8
+9;5;1
+2;7;6
